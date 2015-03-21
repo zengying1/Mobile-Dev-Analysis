@@ -28,13 +28,13 @@ Analysis of android or java
 
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
-| Android view                                       |   kachidoki       |        |
+| Android view                                       |         |        |
 | Java以及Android网络请求（TCP,UDP,HTTP)             |          |        |
-| Android图片处理                                    | zengying1         |        |
+| Android图片处理                                    | zengying2        |        |
 | Android多媒体开发                                  |          |        |
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
-| NDK                                                |  zengying2        |        |
+| NDK                                                |          |        |
 | Android四大组件（一）：activity，service           |          |        |
 | Android四大组件（二）：contentprovider，broadcaster|          |        |
 | Android数据通信（AIDL等）                          |          |        |
