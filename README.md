@@ -34,7 +34,7 @@ Analysis of android or java
 | Android多媒体开发                                  |          |        |
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
-| NDK                                                |  zengying1        |        |
+| NDK                                                |  zengying2        |        |
 | Android四大组件（一）：activity，service           |          |        |
 | Android四大组件（二）：contentprovider，broadcaster|          |        |
 | Android数据通信（AIDL等）                          |          |        |
